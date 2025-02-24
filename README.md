@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 style="color: #FF69B4;">👋 Olá, bem-vindo ao meu perfil!</h1>
 
-<!--
-**Gabrielaisabel7/Gabrielaisabel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Meu nome é Gabriela Isabel, sou estudante de Sistemas de Informação e sou apaixonada por tecnologia. Atualmente, estou focada em me tornar uma Desenvolvedora Fullstack, trabalhando tanto na criação de interfaces intuitivas quanto na lógica por trás das aplicações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivo
+
+Meu objetivo é Busco uma oportunidade como Desenvolvedora de Software Fullstack ou para atuar na área de Projetos
+e Suporte, utilizando meus conhecimentos em programação ou no desenvolvimento de sistemas e
+gestão de projetos.
+
+## 🛠️ Tecnologias
+
+Aqui estão algumas das tecnologias com as quais trabalho e estou aprendendo:
+
+### 📊 Dados & Análise  
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
+### 💻 Desenvolvimento  
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
+
+### 🔧 Ferramentas & Outros  
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+
+## 📚 Atualmente Estudando
+- Desenvolvimento Fullstack  
+- Desenvolvimento Web (Front-End & Back-End)  
+
+## 📩 Vamos Conectar?  
+Se você quiser acompanhar minha jornada ou trocar ideias, fique à vontade para entrar em contato:
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gabiisa449@gmail.com) &nbsp; 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/gabriela-isabel-95b30524b)
