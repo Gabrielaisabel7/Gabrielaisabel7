@@ -36,7 +36,7 @@ Estudante de Sistemas de Informação | Backend, QA e Dados
 - Gerenciamento de estoque simulado para integração de lojas físicas.
 - Estrutura modular com funções de criação, leitura, atualização e exclusão.
 
-🔗 [Repositório](https://github.com/Gabrielaisabel7/SILV)
+🔗 [Repositório](https://github.com/Gabrielaisabel7/gerenciamentoestoque)
 
 ---
 
@@ -44,14 +44,14 @@ Estudante de Sistemas de Informação | Backend, QA e Dados
 - Projeto acadêmico utilizando **C** com **Arduino**.
 - Monitoramento de nível de água com sensores e LEDs.
 - Sinalização visual e sonora em tempo real.
-
+🔗 [Repositório](https://www.hackster.io/527353/sistema-de-alerta-do-volume-de-uma-cisterna-d30e44)
 ---
 
 ### 🔹 Número Secreto (Frontend)
 - Aplicação web com **HTML, CSS e JavaScript**.
 - Manipulação do DOM e lógica condicional aplicada em jogo interativo.
 - Projeto publicado no GitHub Pages.
-
+🔗 [Repositório](https://github.com/Gabrielaisabel7/jogo-numero-secreto)
 ---
 
 ### 🔹 Tutoria em Banco de Dados (EJA - CESAR School)
