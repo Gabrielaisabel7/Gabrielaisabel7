@@ -1,32 +1,81 @@
-# Olá, bem-vindo ao meu perfil!
 
-## Sobre Mim
+<h1 align="center">Gabriela Isabel C. Silva</h1>
 
-Olá! Meu nome é Gabriela Isabel, sou estudante de Sistemas de Informação na Universidade de Pernambuco. Atualmente, estou focada em me tornar uma Desenvolvedora Fullstack, trabalhando tanto na criação de interfaces intuitivas quanto na lógica por trás das aplicações, e pretendo atuar nesse meio ou em testes, inovação e administração de softwares.
+<p align="center">
+Estudante de Sistemas de Informação | Foco em Backend, QA e Dados  
+</p>
 
-## Objetivo
+---
 
-Busco uma oportunidade como Desenvolvedora de Software Fullstack ou para atuar na área de Projetos e Suporte, utilizando meus conhecimentos em programação ou no desenvolvimento de sistemas e gestão de projetos.
+## 👩‍💻 Sobre
 
-## Tecnologias
+Atualmente curso **Sistemas de Informação** e atuo em projetos acadêmicos e pessoais com foco em **desenvolvimento backend**, **testes de software** e **análise de dados**. Tenho experiência prática com **Python**, **SQL (MySQL e PostgreSQL)** e automação de testes via **Postman** e scripts.
 
-Aqui estão algumas das tecnologias com as quais trabalho e estou aprendendo:
+Tenho familiaridade com o ecossistema **frontend (HTML, CSS, JavaScript)**, com base em projetos e cursos realizados. Estou em constante desenvolvimento de habilidades em **garantia de qualidade (QA)**, **CRUDs com persistência em arquivos e banco de dados**, além de construção de APIs.
 
-### Dados & Análise  
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) 
-### Desenvolvimento  
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) 
+---
 
-### Ferramentas & Outros  
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)  [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+## 🧰 Tecnologias e Ferramentas
 
+| Categoria         | Tecnologias/Ferramentas                            |
+|-------------------|----------------------------------------------------|
+| Linguagens        | Python, JavaScript, C                              |
+| Backend           | Python (lógica, arquivos, CRUD), SQLite, PostgreSQL, MySQL |
+| Frontend          | HTML, CSS, JavaScript                              |
+| Testes            | Postman, testes manuais, noções de automação       |
+| Dados             | Excel, CSV, SQL (consultas, joins, filtros)        |
+| Ferramentas       | Git, GitHub, VSCode, Trello, Slack                 |
+| Frameworks        | Vue.js (iniciante)                                 |
 
-## Atualmente Estudando
-- Desenvolvimento Fullstack  
-- Desenvolvimento Web (Front-End & Back-End)  
+---
 
-## Vamos Conectar?  
-Se você quiser acompanhar minha jornada ou trocar ideias, fique à vontade para entrar em contato:
+## 🔎 Áreas de Interesse
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gabriela.isabel@gmail.com) &nbsp; 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/gabriela-isabel-95b30524b)
+- Garantia da Qualidade (QA)
+- Desenvolvimento Backend com Python
+- Análise de Dados e Transformação com SQL
+- Testes de API (REST) e validação de fluxos
+- Documentação técnica de sistemas e requisitos
+
+---
+
+## 📂 Projetos
+
+### 🔹 - Sistema Integrado de Lojas de Varejo
+- CRUD em Python com armazenamento em arquivos `.txt`.
+- Gerenciamento de estoque simulado para integração de lojas físicas.
+- Estrutura modular com funções de criação, leitura, atualização e exclusão.
+
+🔗 [Repositório](https://github.com/Gabrielaisabel7/SILV)
+
+---
+
+### 🔹 Sistema de Alerta de Cisterna
+- Projeto acadêmico utilizando **C** com **Arduino**.
+- Monitoramento de nível de água com sensores e LEDs.
+- Sinalização visual e sonora em tempo real.
+
+---
+
+### 🔹 Número Secreto (Frontend)
+- Aplicação web com **HTML, CSS e JavaScript**.
+- Manipulação do DOM e lógica condicional aplicada em jogo interativo.
+- Projeto publicado no GitHub Pages.
+
+---
+
+### 🔹 Tutoria em Banco de Dados (EJA - CESAR School)
+- Aulas de apoio com foco em **tratamento e organização de dados**.
+- Utilização prática do **Pacote Office**, com ênfase em **Excel**.
+- Apoio na introdução a **banco de dados e análise tabular**.
+
+---
+
+## 📫 Contato
+
+- **Email:** gabriela.isabel@gmail.com  
+- **LinkedIn:** [linkedin.com/in/gabriela-isabel](https://www.linkedin.com/in/gabriela-isabel)  
+- **GitHub:** [github.com/Gabrielaisabel7](https://github.com/Gabrielaisabel7)
+
+---
+
