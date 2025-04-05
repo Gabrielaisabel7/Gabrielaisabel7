@@ -2,7 +2,7 @@
 <h1 align="center">Gabriela Isabel C. Silva</h1>
 
 <p align="center">
-Estudante de Sistemas de Informação | Foco em Backend, QA e Dados  
+Estudante de Sistemas de Informação | Backend, QA e Dados  
 </p>
 
 ---
