@@ -73,9 +73,8 @@ Tenho familiaridade com o ecossistema **frontend (HTML, CSS, JavaScript)**, com 
 
 ## 📫 Contato
 
-- **Email:** gabriela.isabel@gmail.com  
+- **Email:** gabriiela.isabeel@gmail.com  
 - **LinkedIn:** [linkedin.com/in/gabriela-isabel](https://www.linkedin.com/in/gabriela-isabel)  
-- **GitHub:** [github.com/Gabrielaisabel7](https://github.com/Gabrielaisabel7)
 
 ---
 
