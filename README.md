@@ -1,5 +1,5 @@
 
-<h1 align="center">Gabriela Isabel C. Silva</h1>
+<h1 align="center">Gabriela Isabel </h1>
 
 <p align="center">
 Estudante de Sistemas de Informação | Backend, QA e Dados  
