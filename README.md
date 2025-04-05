@@ -5,16 +5,6 @@
 Estudante de Sistemas de Informação | Backend, QA e Dados  
 </p>
 
----
-
-## 👩‍💻 Sobre
-
-Atualmente curso **Sistemas de Informação** e atuo em projetos acadêmicos e pessoais com foco em **desenvolvimento backend**, **testes de software** e **análise de dados**. Tenho experiência prática com **Python**, **SQL (MySQL e PostgreSQL)** e automação de testes via **Postman** e scripts.
-
-Tenho familiaridade com o ecossistema **frontend (HTML, CSS, JavaScript)**, com base em projetos e cursos realizados. Estou em constante desenvolvimento de habilidades em **garantia de qualidade (QA)**, **CRUDs com persistência em arquivos e banco de dados**, além de construção de APIs.
-
----
-
 ## 🧰 Tecnologias e Ferramentas
 
 | Categoria         | Tecnologias/Ferramentas                            |
