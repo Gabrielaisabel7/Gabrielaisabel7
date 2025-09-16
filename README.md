@@ -7,7 +7,7 @@ Estudante de Sistemas de Informação | Backend
 
 ## 📫 Contato
 
-- **Email:** gabriiela.isabeel@gmail.com  
+- **Email:** gabiisa449@gmail.com  
 - **LinkedIn:** [linkedin.com/in/gabriela-isabel](https://www.linkedin.com/in/gabriela-isabel)  
 
 ---
